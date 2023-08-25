@@ -1,3 +1,4 @@
+
 const converterBtn = document.getElementById("codficar");
 const desconverterBtn = document.getElementById("decodficar");
 const input_text = document.getElementById("pesquisa1");
