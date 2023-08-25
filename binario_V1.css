@@ -1,0 +1,32 @@
+.box {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 75px;
+    gap: 15px;
+    
+    align-items: center;
+    flex-direction: column;
+    background-color: #272727;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+input {
+    width: 70%;
+    border-radius: 10px;
+    height: 65px;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.85);
+}
+
+button {
+    width: 40%;
+    border-radius: 15px;
+    height: 30px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.85);
+    font-size: 15px;
+}
